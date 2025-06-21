@@ -2,6 +2,9 @@
 
 A repository to explore data from different sources.
 
+1. [*The Economist* Democracy Index](https://github.com/ffiza/data-visualization?tab=readme-ov-file#1-the-economist-democracy-index)
+2. 🚧 The Monsters of *Dungeons & Dragons*
+
 ## 1. *The Economist* Democracy Index
 
 <div align="center">
