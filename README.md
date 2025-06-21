@@ -26,11 +26,16 @@ A repository to explore data from different sources.
 </div>
 
 <div align="center">
-    <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/map_regions.png?raw=true" width="650">
+    <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/time_series_by_region.png?raw=true" width="650">
     <p><b>Fig. 5:</b> Time evolution of the <i>The Economist</i> Democracy Index by region.</p>
 </div>
 
 <div align="center">
-    <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/map_regions.png?raw=true" width="650">
+    <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/time_series_by_country.png?raw=true" width="650">
     <p><b>Fig. 6:</b> Time evolution of the <i>The Economist</i> Democracy Index for selected countries.</p>
+</div>
+
+<div align="center">
+    <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/regime_migration.png?raw=true" width="650">
+    <p><b>Fig. 7:</b> Changes in regime types between 2006 and 2024.</p>
 </div>
