@@ -1,0 +1,17 @@
+srd_5e_monsters.json
+	https://gist.github.com/tkfu/9819e4ac6d529e225e9fc58b358c3479
+	April 4, 2025
+
+D&D 5E Spells.xlsx
+	https://github.com/TheDataRogue/dnd-5e-spells
+	April 4, 2025
+
+others-official.json
+cd-official.json
+items-ua.json
+items-official.json
+bestiary-complete.json
+char-official.json
+char-ua.json
+spells-official.json
+	https://thedungeondeveloper.com/forum/viewforum.php?f=3
