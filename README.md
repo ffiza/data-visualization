@@ -2,7 +2,7 @@
 
 A repository to explore data from different sources.
 
-### 1. *The Economist* Democracy Index
+## 1. *The Economist* Democracy Index
 
 <div align="center">
     <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/map_regions.png?raw=true" width="650">
@@ -36,6 +36,6 @@ A repository to explore data from different sources.
 </div>
 
 <div align="center">
-    <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/regime_migration.png?raw=true" width="650">
+    <img src="https://github.com/ffiza/data-visualization/blob/main/reports/economist-democracy-index/regime_migration.png?raw=true" width="550">
     <p><b>Fig. 1.7:</b> Changes in regime types between 2006 and 2024.</p>
 </div>
