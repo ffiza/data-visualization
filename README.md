@@ -1,4 +1,6 @@
-# Data Visualization Showcase
+<div align="center">
+    <h1>Data Visualization Showcase</h1>
+</div>
 
 A repository to explore data from different sources.
 
